@@ -1,5 +1,9 @@
 # Frontend Seed
 
+**Note:** Outdated and redundant. Only for memorabilia.  Use [Vite](https://vite.dev/) instead. 
+
+---
+
 An un-bloated, more-or-less-opionated, readied starting point for frontend Javascript applications.
 
 ## Commands
